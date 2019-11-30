@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "614968247516",
+    "firebase_url": "https://bhelpr-5e34c.firebaseio.com",
+    "project_id": "bhelpr-5e34c",
+    "storage_bucket": "bhelpr-5e34c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614968247516:android:b18015616c9b6646",
+        "android_client_info": {
+          "package_name": "com.example.supraja_pc.blooddonor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614968247516-871vepqm0m5bf1702esnvjooccvqergj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBawmdHJ-QGCDQxVnafwgDShMpszPXFLYo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

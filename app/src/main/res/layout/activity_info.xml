@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/eligibilities"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Eligibilities:"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/eli_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="\n\u25BA Any donor, who is healthy, fit and not suffering from any transmittable diseases can donate blood.\n\n\u25BA Donor must be 18 -60 years age and having a minimum weight of 50Kg can donate blood.\n\n\u25BA Donor’s Hemoglobin level is 12.5% minimum.\n\n\u25BA A donor can again donate blood after 3 months of your last donation of blood.\n\n\u25BA Pulse rate must be between 50 to 100mm without any irregularities.\n\n\u25BA BP Diastolic 50 to 100 mm Hg and Systolic 100 to 180 mm Hg.\n\n\u25BA Body temperature should be normal and oral temperature should not exceed 37.5 degree Celsius.\n\n"
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/noneligibilities"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Non-Eligibilities:"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/noneli_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="\n\u25BA Donors should not suffer from Cardiac arrest, hypertension, kidney alignments, epilepsy or diabetics.\n\n\u25BA Ladies with a bad miscarriage should avoid donating blood for the next 6 months.\n\n\u25BA If donor already donated blood or have been treated for malaria within the last three months.\n\n\u25BA If donor undergone any immunization within the past one month.\n\n\u25BA If donor consumed alcohol within the last 24 hours.\n\n\u25BA If you are HIV+.\n\n\u25BA If donor had a dental work for next 24 hours and wait for one month if donor had a major dental procedure.\n\n"
+            android:textSize="15dp" />
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Preparations:"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="\n\u25BA Prepare yourself by having enough fruit juice and water in the night and morning before you donate blood.\n\n\u25BA Avoid donating blood in empty stomach.\n\n\u25BA Eat three hours before you donate blood.\n\n\u25BA Avoid fatty foods.\n\n\u25BA Eat food which is rich in iron such as whole grains, eggs, and beef, and spinach, leafy vegetables, orange and citrus.\n\n\u25BA Don’t consume Alcohol or caffeine beverages before donating blood.\n\n\u25BA Avoid donating blood for 6 months if you had any major surgery.\n\n"
+            android:textSize="15dp" />
+    </LinearLayout>
+</ScrollView>

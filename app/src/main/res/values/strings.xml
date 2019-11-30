@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Blood Donor</string>
+    <string name="minimum_password" />
+    <string name="auth_failed" />
+    <string name="min_password">Password is too short please enter atleast 6 characters</string>
+    <string name="authentication_failed">No such email or password exists</string>
+</resources>
